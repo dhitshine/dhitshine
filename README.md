@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Radhit Akriandra</h1>
 <h3 align="center">A student passionate about ML/AI and the future of tech.</h3>
 
-- 📫 How to reach me **rakriandra@gmail.com**
+- 📫 Reach me here: **rakriandra@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -10,6 +10,12 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=c,cpp,latex"/>
+  </a>
+</p>
+<h3 align="left">Operating Systems:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=c,cpp,latex"/>
