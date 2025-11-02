@@ -12,10 +12,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,latex"/>
   </a>
 </p>
-
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhitshine&show_icons=true&locale=en&layout=compact" alt="dhitshine" />
 </p>
