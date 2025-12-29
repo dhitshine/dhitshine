@@ -13,5 +13,3 @@
 <p align="left">
     <img src="https://skillicons.dev/icons?i=c,cpp,bash,python,latex,linux"/>
 </p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhitshine&show_icons=true&locale=en&layout=compact" alt="dhitshine" />
-</p>
