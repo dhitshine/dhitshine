@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Radhit Akriandra</h1>
-<h3 align="center">A student passionate about deep learning and low-level tech</h3>
-
-- 📫 Reach me here: **rakriandra@gmail.com**
+<h1 align="left">Hi, I'm Radhit Akriandra</h1>
+<h3 align="left">I am an Informatics Engineering student at Institut Teknologi Sepuluh Nopember, currently focusing on the intersection of Deep Learning and Systems Programming.</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
