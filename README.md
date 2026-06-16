@@ -2,8 +2,6 @@
 
 I am an Informatics Engineering student at **Institut Teknologi Sepuluh Nopember (ITS)**, currently focusing on the intersection of **Deep Learning** and **Systems Programming**.
 
----
-
 ### Connect with me
 
 <p align="left">
@@ -15,10 +13,8 @@ I am an Informatics Engineering student at **Institut Teknologi Sepuluh Nopember
   </a>
 </p>
 
----
-
 ### Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,bash,python,latex,linux" alt="My Skills" height="28" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,bash,python,latex,linux" alt="My Skills" height="30" />
 </p>
