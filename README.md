@@ -1,16 +1,24 @@
 # Hi, I'm Radhit Akriandra
 
-I am an Informatics Engineering student at Institut Teknologi Sepuluh Nopember, currently focusing on the intersection of Deep Learning and Systems Programming.
+I am an Informatics Engineering student at **Institut Teknologi Sepuluh Nopember (ITS)**, currently focusing on the intersection of **Deep Learning** and **Systems Programming**.
 
-### Connect with me:
+---
+
+### Connect with me
 
 <p align="left">
-<a href="https://twitter.com/shinee0__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shinee0__" height="30" width="40" /></a>
-<a href="https://instagram.com/radh1t.akr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="radh1t.akr" height="30" width="40" /></a>
+  <a href="https://x.com/shinee0__" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23121212.svg?style=flat-square&logo=x&logoColor=white" alt="X (formerly Twitter)" height="22" />
+  </a>
+  <a href="https://instagram.com/radh1t.akr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="22" />
+  </a>
 </p>
 
-### Languages and Tools: 
+---
+
+### Languages & Tools
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=c,cpp,bash,python,latex,linux"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,bash,python,latex,linux" alt="My Skills" height="28" />
 </p>
